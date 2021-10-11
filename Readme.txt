@@ -14,22 +14,24 @@ Master Playlist with new channel sets and old favorites:
 
 Free2View TV 2021: Revised Edition 2021
 https://od.lk/s/MzJfMTY2NzU4NDVf/Free2ViewTV-2021-Master.m3u
+Github Mirror backup: https://raw.githubusercontent.com/Sphinxroot/Free2ViewTV/main/Free2ViewTV-2021-Master.m3u
 
 Free2View TV 2021: Revised Edition 2021 (for PC users- removes any notations that prevents some PC apps to work)
 https://od.lk/s/MzJfMTcwOTQ4Mjhf/Free2ViewTV-2021-Master-PC.m3u
+Github Mirror backup: https://raw.githubusercontent.com/Sphinxroot/Free2ViewTV/main/Free2ViewTV-2021-Master-PC.m3u
 
 Free2View TV 2021: Revised Edition 2021 NSFW (Adult 18+ content streams and exclusive VOD)
 https://od.lk/s/MzJfMTcwMzY0ODlf/Free2ViewTV-2021-Master-NSFW.m3u
+Github Mirror backup: https://raw.githubusercontent.com/Sphinxroot/Free2ViewTV/main/Free2ViewTV-2021-Master-NSFW.m3u
 
 Free2View TV 2021: Revised Edition 2021 NSFW (for PC users- removes any notations that prevents some PC apps to work)
 https://od.lk/s/MzJfMTc2NDU0OTdf/Free2ViewTV-2021-Master-PC-NSFW.m3u
+Github Mirror backup: https://raw.githubusercontent.com/Sphinxroot/Free2ViewTV/main/Free2ViewTV-2021-Master-PC-NSFW.m3u
 
-UPDATE (10/11/21) Please note, a LOT of users are downloading the playlists and maxing out the 25 GB bandwidth limit, so some users are reporting errors. With such small files, that means a big lot of you are enjoying this little project! So, I will be setting up back up remote URL's in collaboration with @Sphinxroot and his team at the following Github: 
-https://github.com/Sphinxroot/Free2ViewTV
-Although I prefer using OpenDrive because of its privacy management, I may have to find an alternative. More on all this is coming soon as I figure things out.
-UPDATE (10/11/21) Ok, so I upgraded the bandwidth limit of my OpenDrive server, so should not have any errors (for now, unless a lot more people use Free2View TV lol, but otherwise everyone should be ok until I can also set up Github mirror backups). 
+UPDATE (10/11/21) Please note, a LOT of users are downloading the playlists and it was maxing out the 25 GB bandwidth limit in my OpenDrive server, so some users were reporting errors. With such small files, that means a big lot of you are enjoying this little project! So, I have set up up back up remote URL's in collaboration with @Sphinxroot and his team at the following Github: https://github.com/Sphinxroot/Free2ViewTV
+Although I prefer using OpenDrive because of its privacy management, I upgraded the bandwidth limit of my OpenDrive server to 100 GB, so no one should get any errors (for now, unless a lot more people use Free2View TV lol, but otherwise everyone should be ok. At the very least, y'all can also add the Github Mirrors as backups. 
 
-The OLD m3u documents will be updated with the new revised playlist and I will keep the old URL's live in this github for a while longer, but please update your streaming players with the new remote URL's above to avoid any interruptions.
+The OLD m3u documents will be updated with the new revised playlist and I will keep the old URL's live in my own github for a while longer, but please update your streaming players with the new remote URL's above to avoid any interruptions. I will eventually discontinue my Github server, but not for a while until everyone can transition to the new OpenDrive links (and the Github Mirrors as backups).
 
 *** PLEASE NOTE *** 
 Still working on migrating all the channels from the previous list to this revised version. I wanted to make sure that the new version's template was out there so that it can be built upon. The biggest criticisms was that there was too many categories, so a lot of channels can be incorporated into pre-existing groups and I wanted to get the basic framework done. This is the result of the work.
