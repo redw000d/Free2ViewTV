@@ -44,6 +44,11 @@
 # list is dated as '2021' and without having to change to a new document URL.
 #
 #
+# 10/13/21 - NEW VOD ADDED: Two new episodes from Playboy 18+ VOD's added (only applicable to the NSFW versions of the playlist).
+# 10/11/21 - NEW CHANNELS ADDED: Several new channels added to "Plex Live TV" category.
+# 10/09/21 - PLAYLIST MAINTENANCE: Did general housecleaning of the playlist (fixed categories, reorganized list, etc). 
+# 10/07/21 - NEW CATEGORY: "Holidays 365" category complementing the seasons with special streams and VOD, Halloween, Christmas, etc.
+# 10/03/21 - NEW RADIO CHANNELS / CATEGORY: Full selection of DASH Radio streams. Special thanks to @Sphinxroot via our Discord group.
 # 9/30/21 - NEW CHANNELS ADDED: Francophone channels added to "International TV" and duplicated in "Canada" category.
 # 9/30/21 - NEW CHANNELS ADDED: AccuWeather NOW and Documentary+ added to "Plex Live TV" category.
 # 9/29/21 - CATEGORY UPDATED: Updated stream URL's in "Samsung TV Plus" group; added several new channels.
