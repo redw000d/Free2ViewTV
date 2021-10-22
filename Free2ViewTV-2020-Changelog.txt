@@ -44,6 +44,19 @@
 # list is dated as '2021' and without having to change to a new document URL.
 #
 #
+# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 10/14/2021 ** !! See chronology of changes below...
+# 10/19/21 - NEW CONTENT: horror radio: Conyers OTR; https://darkentertainments.co.uk  - "Holidays 365" Halloween sub-category. 
+# 10/19/21 - NEW CONTENT: GhostCams: Willard Library Ghost Site (www.willardghost.com) - "Holidays 365" Halloween sub-category. 
+# 10/18/21 - NEW CONTENT: Added additional VOD titles and "Haunt TV" live stream to "Holidays 365" Halloween sub-category.
+# 10/18/21 - CATEGORY MAINTENANCE / NEW CHANNELS: Updated & reorganized "Pluto TV on Samsung TV Plus" group, new channels added.
+# 10/18/21 - CHANNEL MAINTENANCE: Mapped additional EPG for 'Worldwide Streams' subcategory of "PBS (Geo-USA) | PBS + NPR" group. 
+# 10/17/21 - NEW CHANNEL: ACE | American Classic Entertainment linear stream (DistroTV source) added to "USA Free TV".
+# 10/17/21 - NEW CHANNEL: The Grio TV linear stream (LocalNow source) added to "USA Free TV".
+# 10/16/21 - NEW CHANNELS: USTVNow Free TV added to "USA Free TV" (EPG where applicable) https://www.ustvnow.com/freetowatch 
+# 10/15/21 - CHANNEL MAINTENANCE: Added additional source for 'noovo' channel in "Canada" category.
+# 10/14/21 - NEW EPG ADDED FOR UPDATED CATEGORY (see next info): NEW! [10] https://od.lk/s/MzJfMTQyMzI0MTdf/WNY_13601_DTV.xml
+# 10/14/21 - CATEGORY UPDATED: Changed "USA FREE TV | OTA" to "USA Free TV" using new EPG source above, additional channels/EPG data.
+# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 10/14/2021 ** !! See chronology of changes below...
 # 10/13/21 - NEW VOD ADDED: Two new episodes from Playboy 18+ VOD's added (only applicable to the NSFW versions of the playlist).
 # 10/11/21 - NEW CHANNELS ADDED: Several new channels added to "Plex Live TV" category.
 # 10/09/21 - PLAYLIST MAINTENANCE: Did general housecleaning of the playlist (fixed categories, reorganized list, etc). 
