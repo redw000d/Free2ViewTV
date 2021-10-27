@@ -44,6 +44,13 @@
 # list is dated as '2021' and without having to change to a new document URL.
 #
 #
+# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 10/24/2021 ** !! See chronology of changes below...
+# 10/27/21 - NEW CHANNEL: Fox Weather | Webstream added to "Live News" category.
+# 10/26/21 - NEW CHANNELS / CHANNEL MAINTENANCE: Added food channels, updated some news channels in "Samsung TV Plus".
+# 10/26/21 - CHANNEL MAINTENANCE: Updated NTV Newfoundland channel in "Canada" category.
+# 10/24/21 - PLAYLIST MAINTENANCE: re-organised a category (moved STIRR TV group closer to the front).
+# 10/24/21 - NEW CATEGORY: Added complete set of "Distro TV" with new EPG, courtesy of @DeltaSR + @jhr1948 via Discord.
+# 10/24/21 - NEW EPG SOURCE: this new EPG source now takes up the vacant [7] slot in our order: NEW! [7] https://cutt.ly/DistroTVepg
 # !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 10/14/2021 ** !! See chronology of changes below...
 # 10/19/21 - NEW CONTENT: horror radio: Conyers OTR; https://darkentertainments.co.uk  - "Holidays 365" Halloween sub-category. 
 # 10/19/21 - NEW CONTENT: GhostCams: Willard Library Ghost Site (www.willardghost.com) - "Holidays 365" Halloween sub-category. 
