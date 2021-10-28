@@ -1,3 +1,93 @@
+# ************************************************************************************************************************************* 
+#
+# This is the Free2View TV Project streaming TV playlist, newly revised and updated edition for 2021! 
+#
+# For more details about this project, visit us: 
+# https://thefrugalstreamer.blogspot.com/p/free2viewtvpage1.html
+# Contact us: Free2ViewTVCanada@gmail.com
+#
+# Note: To the best of my knowledge, all of these streams are legal streams, either over-the-air or live-streamed through unscrambled
+# links over the internet. All links are not guaranteed to be stable, but tested before being added to this list. I do not 
+# guarantee that these links will remain stable or active and any dead links could be removed at any time. Enjoy! -Georges B.
+# Channel list begins after the Changelog in this document.
+#
+#
+# Download the complete Changelog (News and Updates):
+# https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/Free2ViewTV-2020-Changelog.txt
+# (This changelog file from 2020 will remain the same and will be updated with the new changes for 2021.)
+#
+# ************************************************************************************************************************************* 
+#
+# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 8/10/2021 ** !! See chronology of changes below...
+# !!!!!!!!!!!!!!! - !! Introducing the UPDATED AND REVISED FOR 2021 edition of the Free2View TV playlist!
+# UPDATE: 8/25/21 - Soft launch of the 'preview' edition of this playlist. Still a work in progress. Full launch expected by 9/06/21!
+# PREVIEW EDITION - UPDATE: Added more channels in "Samsung TV Plus" group (8/25). More "Sports & Recreation" channels added (8/25).
+# PREVIEW EDITION - UPDATE: Added more channels in "Samsung TV Plus" and "Vizio" groups; removed EPG data from NTV ("Canada") (8/25).
+# PREVIEW EDITION - UPDATE: Added more channels in "Movies & More" category (8/25). Added "International TV", updated streams. (8/26).
+# PREVIEW EDITION - UPDATE: Added more channels in "Movies & More" category (8/26), and "Free2View TV Select | Roku" category (8/26).
+# PREVIEW EDITION - UPDATE: More "Vizio WatchFree + Pluto TV" channels; replaced with generic logos to facilitate quick updates.
+# PREVIEW EDITION - UPDATE: Added new "Free Ad Supported TV" category, aka FAST, with Local Now Exclusive channels (8/29).
+# PREVIEW EDITION - UPDATE: Added "Vuuzle" streams and "Plex" streams to "Free Ad Supported TV" category (8/29).
+# PREVIEW EDITION - UPDATE: Added full set of France 24 streams in "Live News" category; Electric Now channel updated (8/30).
+# PREVIEW EDITION - UPDATE: Added additional channels in "Samsung TV Plus"; Portlandia added to "AMC Networks" category (8/31).
+# PREVIEW EDITION - UPDATE: Added SportsTribal.tv in the "Sports & Recreation" group (9/01).
+# PREVIEW EDITION - UPDATE: Updated Plex channels with EPG sources (9/02). "WatchYour.TV | TVS" category and channels added (9/03).
+# PREVIEW EDITION - UPDATE: Completed migration of "USA FREE TV | OTA" channels from previous version of playlist (9/05).
+# PREVIEW EDITION - UPDATE: Expanded "Plex Live TV" and set up in its own category with full EPG listings (9/05).
+# REVISED EDITION - UPDATE: OFFICIAL DROP OF THE REVISED EDITION!! (9/07)
+# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 9/08/2021 ** !! See chronology of changes below...
+# UPDATE: 9/08/21 - MORE CHANNELS: Added additional Pluto TV streams with EPG, Positiv TV with EPG, add to their respective groups.
+# UPDATE: 9/09/21 - NEW CHANNELS: Added new Kids' Pluto TV channels with EPG in "Vizio WatchFree + Pluto TV" category.
+# UPDATE: 9/12/21 - UPDATE: New streams / updated streams to "Plex Live TV" and "Samsung TV Plus".
+# UPDATE: 9/12/21 - NEW CHANNEL ADDED: French-Canadian channel TVA (Alternate) added to "Canada" category.
+# UPDATE: 9/12/21 - NEW CATEGORY: "Free Live Radio" category: local live radio, news radio, novelty & Old Time Radio, and more.
+# UPDATE: 9/13/21 - NEW VOD ADDED: Additional VOD media has been added to the NSFW edition of the playlist.
+# UPDATE: 9/15/21 - NEW CATEGORY: "Ambient TV" - Sound Optional! Great for office screens at home or for your business!
+# UPDATE: 9/15/21 - UPDATE: AmericaTeve | Roku, DocuBox | Vuuzle, added to "Free Ad Supported TV"; streams updated in same group.
+# CHANGELOG FORMAT CHANGE BEGINS HERE TO ALLOW FOR LENGTHIER INFORMATION:
+# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 9/18/2021 ** !! See chronology of changes below...
+# 09/18/21 - UPDATE: Added KQED TV and Radio streams in "PBS (Geo-USA) | PBS + NPR".
+# 09/18/21 - MINOR UPDATE: Updated some formatting of some #EXTINF tags in several categories.
+# 09/19/21 - CHANNEL UPDATE: Updated stream for Knowledge Network in "Canada" category; added some CBC/ICI duplicates.
+# 09/19/21 - NEW CHANNELS ADDED: Live streams from Australia added as a sub-category in "International TV".
+# 09/19/21 - NEW / UPDATE: Updated streams for Russia Today channels, added new RT Documentary, "International TV" group.
+# 09/19/21 - NEW CHANNELS ADDED: Law & Crime, Lively Place, Loop Music Videos added to "Plex Live TV" category, with EPG.
+# 09/19/21 - CHANNELS REMOVED: "Vizio WatchFree + Pluto TV": Removed Adventure Sports Network, Law & Crime (dead links).
+# 09/19/21 - CHANNELS ADDED: "Vizio WatchFree + Pluto TV": Outside TV+, Pac 12 Insider. "Samsung TV Plus": CrimeTime TV added.
+# 09/21/21 - NEW VOD ADDED: New collection of 18+ VOD's added (only applicable to the NSFW versions of the playlist).
+# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 9/23/2021 ** !! See chronology of changes below...
+# 09/23/21 - MAJOR RE-ORGANIZATION: Moved Vizio channels to "Free Ad Supported TV", renamed category to "Pluto TV on Samsung TV Plus".
+# 09/29/21 - CATEGORY UPDATED: Updated stream URL's in "Samsung TV Plus" group; added several new channels.
+# 09/30/21 - NEW CHANNELS ADDED: Francophone channels added to "International TV" and duplicated in "Canada" category.
+# 09/30/21 - NEW CHANNELS ADDED: AccuWeather NOW and Documentary+ added to "Plex Live TV" category.
+# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 10/03/2021 ** !! See chronology of changes below...
+# 10/03/21 - NEW RADIO CHANNELS / CATEGORY: Full selection of DASH Radio streams. Special thanks to @Sphinxroot via our Discord group.
+# 10/07/21 - NEW CATEGORY: "Holidays 365" category complementing the seasons with special streams and VOD, Halloween, Christmas, etc.
+# 10/09/21 - PLAYLIST MAINTENANCE: Did general housecleaning of the playlist (fixed categories, reorganized list, etc). 
+# 10/11/21 - NEW CHANNELS ADDED: Several new channels added to "Plex Live TV" category.
+# 10/13/21 - NEW VOD ADDED: Two new episodes from Playboy 18+ VOD's added (only applicable to the NSFW versions of the playlist).
+# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 10/14/2021 ** !! See chronology of changes below...
+# 10/14/21 - NEW EPG ADDED FOR UPDATED CATEGORY (see next info): NEW! [10] https://od.lk/s/MzJfMTQyMzI0MTdf/WNY_13601_DTV.xml
+# 10/14/21 - CATEGORY UPDATED: Changed "USA FREE TV | OTA" to "USA Free TV" using new EPG source above, additional channels/EPG data.
+# 10/15/21 - CHANNEL MAINTENANCE: Added additional source for 'noovo' channel in "Canada" category.
+# 10/16/21 - NEW CHANNELS: USTVNow Free TV added to "USA Free TV" (EPG where applicable) https://www.ustvnow.com/freetowatch 
+# 10/17/21 - NEW CHANNEL: ACE | American Classic Entertainment linear stream (DistroTV source) added to "USA Free TV".
+# 10/17/21 - NEW CHANNEL: The Grio TV linear stream (LocalNow source) added to "USA Free TV".
+# 10/18/21 - NEW CONTENT: Added additional VOD titles and "Haunt TV" live stream to "Holidays 365" Halloween sub-category.
+# 10/18/21 - CATEGORY MAINTENANCE / NEW CHANNELS: Updated & reorganized "Pluto TV on Samsung TV Plus" group, new channels added.
+# 10/18/21 - CHANNEL MAINTENANCE: Mapped additional EPG for 'Worldwide Streams' subcategory of "PBS (Geo-USA) | PBS + NPR" group. 
+# 10/19/21 - NEW CONTENT: horror radio: Conyers OTR; https://darkentertainments.co.uk  - "Holidays 365" Halloween sub-category. 
+# 10/19/21 - NEW CONTENT: GhostCams: Willard Library Ghost Site (www.willardghost.com) - "Holidays 365" Halloween sub-category. 
+# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 10/24/2021 ** !! See chronology of changes below...
+# 10/24/21 - PLAYLIST MAINTENANCE: re-organised a category (moved STIRR TV group closer to the front).
+# 10/24/21 - NEW CATEGORY: Added complete set of "Distro TV" with new EPG, courtesy of @DeltaSR + @jhr1948 via Discord.
+# 10/24/21 - NEW EPG SOURCE: this new EPG source now takes up the vacant [7] slot in our order: NEW! [7] https://cutt.ly/DistroTVepg
+# 10/26/21 - NEW CHANNELS / CHANNEL MAINTENANCE: Added food channels, updated some news channels in "Samsung TV Plus".
+# 10/26/21 - CHANNEL MAINTENANCE: Updated NTV Newfoundland channel in "Canada" category.
+# 10/27/21 - NEW CHANNEL: Fox Weather | Webstream added to "Live News" category.
+#
+# ************************************************************************************************************************************* 
+
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Info | Free2View TV",** Completely Revised for 2021 **
@@ -2679,3 +2769,102 @@ https://od.lk/s/MF8yNDY3OTQyOTdf/Classy-Sass_MetArt-1080p.mp4
 https://od.lk/s/MF8yNDc1MDE0OTZf/Loves-Dessert_StaffSelection-1080p.mp4
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDA3OTIzMTVf/AdultContent_699x699.png" group-title="Adults Only | 18+",VOD | Fireplace & Chill (18+)
 https://od.lk/s/MF8yMTU5MTU3MjRf/Fireplace-and-Chill_21m.mp4
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="F2V-TV Extended Edition",** Category Updated 10/12/21 **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Extended1
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="F2V-TV Extended Edition",** PREMIUM EXCLUSIVE **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Extended1B
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="F2V-TV Extended Edition",** NOT FOR PUBLIC CIRCULATION **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Extended1C
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="F2V-TV Extended Edition",** Use these EXCLUSIVE EPG sources: **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Extended2
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="F2V-TV Extended Edition",[1] https://od.lk/s/MzJfMTQyMzI0MTJf/CAN_EPG1.xml
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Extended3
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="F2V-TV Extended Edition",[10] https://od.lk/s/MzJfMTQyMzI0MTdf/WNY_13601_DTV.xml
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ExtendedTurner1C
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="F2V-TV Extended Edition",[11] https://od.lk/s/MzJfMTQyMzI0MTRf/FLD_32312.xml
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ExtendedDwellings1
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="F2V-TV Extended Edition",** Premium Webstreams **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ExtendedWebs
+#EXTINF:-1 tvg-id="I255.75971.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="F2V-TV Extended Edition",CBC News Network (Geo-CA)
+https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master5.m3u8
+#EXTINF:-1 tvg-id="I117.16715.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMzYxMDAxMzBf/Pop_200x200.png" group-title="F2V-TV Extended Edition",POP | HD
+https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjg5MzMxNjdf/Ovation_450x450.png" group-title="F2V-TV Extended Edition",Ovation | HD
+https://vcnovation.teleosmedia.com/stream/ovation/ovationtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYzNDkyMDRf/Turner_200x200.png" group-title="F2V-TV Extended Edition",** Turner Broadcasting **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ExtendedTurner1A
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYzNDkyMDRf/Turner_200x200.png" group-title="F2V-TV Extended Edition",** Uses Exclusive EPG [10] **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ExtendedTurner1B
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYzNDkyMDRf/Turner_200x200.png" group-title="F2V-TV Extended Edition",** EPG | Eastern Channels **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ExtendedTurner1D
+#EXTINF:-1 tvg-id="I139.11867.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjYzNDkyMDRf/Turner_200x200.png" group-title="F2V-TV Extended Edition",TBS | East
+https://tve-live-ctl.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="I138.11164.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjYzNDkyMDRf/Turner_200x200.png" group-title="F2V-TV Extended Edition",TNT | East
+https://tve-live-ctl.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="I242.10153.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjYzNDkyMDRf/Turner_200x200.png" group-title="F2V-TV Extended Edition",TruTV | East
+https://tve-live-ctl.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="I132.12852.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjYzNDkyMDRf/Turner_200x200.png" group-title="F2V-TV Extended Edition",TCM | East
+https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-id="I202.10145.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjYzNDkyMDRf/Turner_200x200.png" group-title="F2V-TV Extended Edition",HLN
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="I200.10142.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjYzNDkyMDRf/Turner_200x200.png" group-title="F2V-TV Extended Edition",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYzNDkyMDRf/Turner_200x200.png" group-title="F2V-TV Extended Edition",CNN International
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYzNDkyMDRf/Turner_200x200.png" group-title="F2V-TV Extended Edition",Adult Swim | East
+https://tve-live-ctl.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYzNDkyMDRf/Turner_200x200.png" group-title="F2V-TV Extended Edition",** West Coast Channels **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ExtendedTurner1E
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYzNDkyMDRf/Turner_200x200.png" group-title="F2V-TV Extended Edition",TBS | West
+https://tve-live-ctl.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYzNDkyMDRf/Turner_200x200.png" group-title="F2V-TV Extended Edition",TNT | West
+https://tve-live-ctl.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYzNDkyMDRf/Turner_200x200.png" group-title="F2V-TV Extended Edition",TruTV | West
+https://tve-live-ctl.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYzNDkyMDRf/Turner_200x200.png" group-title="F2V-TV Extended Edition",TCM | West
+https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYzNDkyMDRf/Turner_200x200.png" group-title="F2V-TV Extended Edition",Adult Swim | West
+https://tve-live-ctl.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png",** The Dwellings TV **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ExtendedDwellings
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",** Uses Exclusive EPG [11] **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ExtendedDwellings2
+#EXTINF:-1 tvg-ID="I6.1.44739.zap2it.com" tvg-name="6.1 WCTVDT" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",WCTV 6.1 CBS
+https://5e6cea03e25b6.streamlock.net/live/WCTVDT.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="I6.2.46285.zap2it.com" tvg-name="6.2 WCTVDT2" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",WCTV 6.2 MeTV
+https://5e6cea03e25b6.streamlock.net/live/WCTVDT2.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="I6.3.109194.zap2it.com" tvg-name="6.3 WCTVDT3" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",WCTV 6.3 Circle
+https://5e6cea03e25b6.streamlock.net/live/ION.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="I11.1.35387.zap2it.com" tvg-name="11.1 WFSUDT" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",WFSU 11.1 PBS
+https://5e6cea03e25b6.streamlock.net/live/WFSU-PBS.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="I11.2.35389.zap2it.com" tvg-name="11.2 WFSUDT2" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",WFSU 11.2 The Florida Ch.
+https://5e6cea03e25b6.streamlock.net/live/WFSU-FL.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="I11.3.35391.zap2it.com" tvg-name="11.3 WFSUDT3" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",WFSU 11.3 Create
+https://5e6cea03e25b6.streamlock.net/live/CREATE.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="I11.4.35393.zap2it.com" tvg-name="11.4 WFSUDT4" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",WFSU 11.4 PBS Kids
+https://5e6cea03e25b6.streamlock.net/live/PBSKIDS.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="I27.1.43832.zap2it.com" tvg-name="27.1 WTXLDT" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",WTXL 27.1 ABC
+https://5e6cea03e25b6.streamlock.net/live/WTXLHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="I27.2.53061.zap2it.com" tvg-name="27.2 WTXLDT2" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",WTXL 27.2 Bounce TV
+https://5e6cea03e25b6.streamlock.net/live/BOUNCE.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="I27.3.74751.zap2it.com" tvg-name="27.3 WTXLDT3" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",WTXL 27.3 Grit
+https://5e6cea03e25b6.streamlock.net/live/GRIT.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="I27.4.97554.zap2it.com" tvg-name="27.4 WTXLDT4" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",WTXL 27.4 Court TV Mystery
+https://5e6cea03e25b6.streamlock.net/live/QVC.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="I27.5.111254.zap2it.com" tvg-name="27.5 WTXLDT5" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",Court TV | Webstream
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay
+#EXTINF:-1 tvg-ID="I40.1.36063.zap2it.com" tvg-name="40.1 WTWCDT" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",WTWC 40.1 NBC
+https://5e6cea03e25b6.streamlock.net/live/WTWC-NB.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="I40.2.50901.zap2it.com" tvg-name="40.2 WTWCDT2" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",WTWC 40.2 Fox
+https://5e6cea03e25b6.streamlock.net/live/WTWC-FX.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="I40.3.70965.zap2it.com" tvg-name="40.3 WTWCDT3" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",WTWC 40.3 Charge!
+https://5e6cea03e25b6.streamlock.net/live/CHARGE.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="I49.1.49996.zap2it.com" tvg-name="49.1 WTLHDT" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",WTLH 49.1 Heroes & Icons
+https://5e6cea03e25b6.streamlock.net/live/HI.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="I49.2.53331.zap2it.com" tvg-name="49.2 WTLHDT2" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",WTLH 49.2 CW
+https://5e6cea03e25b6.streamlock.net/live/WTLHCW.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="I49.3.71938.zap2it.com" tvg-name="49.3 WTLHDT3" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",WTLH 49.3 Comet TV | Webstream
+https://5e6cea03e25b6.streamlock.net/live/COMETTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="I49.3.71938.zap2it.com" tvg-name="49.3 WTLHDT3" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",Comet TV | Webstream
+https://content-ausw1-up-1.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?l1br3&date0820&catTheDwellings

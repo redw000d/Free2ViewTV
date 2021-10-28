@@ -2679,3 +2679,102 @@ https://od.lk/s/MF8yNDY3OTQyOTdf/Classy-Sass_MetArt-1080p.mp4
 https://od.lk/s/MF8yNDc1MDE0OTZf/Loves-Dessert_StaffSelection-1080p.mp4
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDA3OTIzMTVf/AdultContent_699x699.png" group-title="Adults Only | 18+",VOD | Fireplace & Chill (18+)
 https://od.lk/s/MF8yMTU5MTU3MjRf/Fireplace-and-Chill_21m.mp4
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="F2V-TV Extended Edition",** Category Updated 10/12/21 **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Extended1
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="F2V-TV Extended Edition",** PREMIUM EXCLUSIVE **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Extended1B
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="F2V-TV Extended Edition",** NOT FOR PUBLIC CIRCULATION **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Extended1C
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="F2V-TV Extended Edition",** Use these EXCLUSIVE EPG sources: **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Extended2
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="F2V-TV Extended Edition",[1] https://od.lk/s/MzJfMTQyMzI0MTJf/CAN_EPG1.xml
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Extended3
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="F2V-TV Extended Edition",[10] https://od.lk/s/MzJfMTQyMzI0MTdf/WNY_13601_DTV.xml
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ExtendedTurner1C
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="F2V-TV Extended Edition",[11] https://od.lk/s/MzJfMTQyMzI0MTRf/FLD_32312.xml
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ExtendedDwellings1
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="F2V-TV Extended Edition",** Premium Webstreams **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ExtendedWebs
+#EXTINF:-1 tvg-id="I255.75971.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjczOTg0OTRf/CBCtv.png" group-title="F2V-TV Extended Edition",CBC News Network (Geo-CA)
+https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master5.m3u8
+#EXTINF:-1 tvg-id="I117.16715.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMzYxMDAxMzBf/Pop_200x200.png" group-title="F2V-TV Extended Edition",POP | HD
+https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjg5MzMxNjdf/Ovation_450x450.png" group-title="F2V-TV Extended Edition",Ovation | HD
+https://vcnovation.teleosmedia.com/stream/ovation/ovationtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYzNDkyMDRf/Turner_200x200.png" group-title="F2V-TV Extended Edition",** Turner Broadcasting **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ExtendedTurner1A
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYzNDkyMDRf/Turner_200x200.png" group-title="F2V-TV Extended Edition",** Uses Exclusive EPG [10] **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ExtendedTurner1B
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYzNDkyMDRf/Turner_200x200.png" group-title="F2V-TV Extended Edition",** EPG | Eastern Channels **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ExtendedTurner1D
+#EXTINF:-1 tvg-id="I139.11867.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjYzNDkyMDRf/Turner_200x200.png" group-title="F2V-TV Extended Edition",TBS | East
+https://tve-live-ctl.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="I138.11164.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjYzNDkyMDRf/Turner_200x200.png" group-title="F2V-TV Extended Edition",TNT | East
+https://tve-live-ctl.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="I242.10153.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjYzNDkyMDRf/Turner_200x200.png" group-title="F2V-TV Extended Edition",TruTV | East
+https://tve-live-ctl.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="I132.12852.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjYzNDkyMDRf/Turner_200x200.png" group-title="F2V-TV Extended Edition",TCM | East
+https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-id="I202.10145.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjYzNDkyMDRf/Turner_200x200.png" group-title="F2V-TV Extended Edition",HLN
+https://turnerlive.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="I200.10142.zap2it.com" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjYzNDkyMDRf/Turner_200x200.png" group-title="F2V-TV Extended Edition",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYzNDkyMDRf/Turner_200x200.png" group-title="F2V-TV Extended Edition",CNN International
+https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYzNDkyMDRf/Turner_200x200.png" group-title="F2V-TV Extended Edition",Adult Swim | East
+https://tve-live-ctl.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYzNDkyMDRf/Turner_200x200.png" group-title="F2V-TV Extended Edition",** West Coast Channels **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ExtendedTurner1E
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYzNDkyMDRf/Turner_200x200.png" group-title="F2V-TV Extended Edition",TBS | West
+https://tve-live-ctl.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYzNDkyMDRf/Turner_200x200.png" group-title="F2V-TV Extended Edition",TNT | West
+https://tve-live-ctl.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYzNDkyMDRf/Turner_200x200.png" group-title="F2V-TV Extended Edition",TruTV | West
+https://tve-live-ctl.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYzNDkyMDRf/Turner_200x200.png" group-title="F2V-TV Extended Edition",TCM | West
+https://tve-live-lln.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjYzNDkyMDRf/Turner_200x200.png" group-title="F2V-TV Extended Edition",Adult Swim | West
+https://tve-live-ctl.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png",** The Dwellings TV **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ExtendedDwellings
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",** Uses Exclusive EPG [11] **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ExtendedDwellings2
+#EXTINF:-1 tvg-ID="I6.1.44739.zap2it.com" tvg-name="6.1 WCTVDT" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",WCTV 6.1 CBS
+https://5e6cea03e25b6.streamlock.net/live/WCTVDT.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="I6.2.46285.zap2it.com" tvg-name="6.2 WCTVDT2" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",WCTV 6.2 MeTV
+https://5e6cea03e25b6.streamlock.net/live/WCTVDT2.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="I6.3.109194.zap2it.com" tvg-name="6.3 WCTVDT3" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",WCTV 6.3 Circle
+https://5e6cea03e25b6.streamlock.net/live/ION.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="I11.1.35387.zap2it.com" tvg-name="11.1 WFSUDT" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",WFSU 11.1 PBS
+https://5e6cea03e25b6.streamlock.net/live/WFSU-PBS.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="I11.2.35389.zap2it.com" tvg-name="11.2 WFSUDT2" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",WFSU 11.2 The Florida Ch.
+https://5e6cea03e25b6.streamlock.net/live/WFSU-FL.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="I11.3.35391.zap2it.com" tvg-name="11.3 WFSUDT3" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",WFSU 11.3 Create
+https://5e6cea03e25b6.streamlock.net/live/CREATE.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="I11.4.35393.zap2it.com" tvg-name="11.4 WFSUDT4" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",WFSU 11.4 PBS Kids
+https://5e6cea03e25b6.streamlock.net/live/PBSKIDS.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="I27.1.43832.zap2it.com" tvg-name="27.1 WTXLDT" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",WTXL 27.1 ABC
+https://5e6cea03e25b6.streamlock.net/live/WTXLHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="I27.2.53061.zap2it.com" tvg-name="27.2 WTXLDT2" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",WTXL 27.2 Bounce TV
+https://5e6cea03e25b6.streamlock.net/live/BOUNCE.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="I27.3.74751.zap2it.com" tvg-name="27.3 WTXLDT3" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",WTXL 27.3 Grit
+https://5e6cea03e25b6.streamlock.net/live/GRIT.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="I27.4.97554.zap2it.com" tvg-name="27.4 WTXLDT4" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",WTXL 27.4 Court TV Mystery
+https://5e6cea03e25b6.streamlock.net/live/QVC.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="I27.5.111254.zap2it.com" tvg-name="27.5 WTXLDT5" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",Court TV | Webstream
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay
+#EXTINF:-1 tvg-ID="I40.1.36063.zap2it.com" tvg-name="40.1 WTWCDT" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",WTWC 40.1 NBC
+https://5e6cea03e25b6.streamlock.net/live/WTWC-NB.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="I40.2.50901.zap2it.com" tvg-name="40.2 WTWCDT2" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",WTWC 40.2 Fox
+https://5e6cea03e25b6.streamlock.net/live/WTWC-FX.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="I40.3.70965.zap2it.com" tvg-name="40.3 WTWCDT3" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",WTWC 40.3 Charge!
+https://5e6cea03e25b6.streamlock.net/live/CHARGE.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="I49.1.49996.zap2it.com" tvg-name="49.1 WTLHDT" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",WTLH 49.1 Heroes & Icons
+https://5e6cea03e25b6.streamlock.net/live/HI.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="I49.2.53331.zap2it.com" tvg-name="49.2 WTLHDT2" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",WTLH 49.2 CW
+https://5e6cea03e25b6.streamlock.net/live/WTLHCW.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="I49.3.71938.zap2it.com" tvg-name="49.3 WTLHDT3" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",WTLH 49.3 Comet TV | Webstream
+https://5e6cea03e25b6.streamlock.net/live/COMETTV.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="I49.3.71938.zap2it.com" tvg-name="49.3 WTLHDT3" tvg-logo="https://od.lk/s/MF8yMjY1MTk1Nzhf/TheDwellingsTV_500x500.png" group-title="F2V-TV Extended Edition",Comet TV | Webstream
+https://content-ausw1-up-1.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?l1br3&date0820&catTheDwellings
