@@ -44,6 +44,15 @@
 # list is dated as '2021' and without having to change to a new document URL.
 #
 #
+# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 10/29/2021 ** !! See chronology of changes below...
+# 10/30/21 - NEW CONTENT ADDED: Additional VOD and live channels added to "Holidays 365" category.
+# 10/30/21 - NEW CATEGORY: Added primary set (main channels) of "LocalNow" with new EPG, courtesy of @DeltaSR + @jhr1948 via Discord.
+# 10/30/21 - NEW EPG SOURCE: new "LocalNow" EPG source NEW! [11] https://cutt.ly/LocalNowepg
+# 10/30/21 - NEW CATEGORY: Added full set of channels from "WatchYour.TV" with new EPG, courtesy of @DeltaSR + @jhr1948 via Discord.
+# 10/30/21 - NEW EPG SOURCE: new "WatchYour.TV" EPG source NEW! [12] https://cutt.ly/WatchyourTVepg
+# 10/30/21 - INFORMATION: For new EPG sources, be sure to select the 'Download at each update' option in the settings!
+# 10/30/21 - MAINTENANCE: Removed 'Local Now Exclusives' from "Free Ad Supported TV" as we now have dedicated "LocalNow" category.
+# 10/29/21 - NEW CHANNELS ADDED: Several new channels added to the "Samsung TV Plus" category.
 # !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 10/24/2021 ** !! See chronology of changes below...
 # 10/27/21 - NEW CHANNEL: Fox Weather | Webstream added to "Live News" category.
 # 10/26/21 - NEW CHANNELS / CHANNEL MAINTENANCE: Added food channels, updated some news channels in "Samsung TV Plus".
