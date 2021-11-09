@@ -44,6 +44,15 @@
 # list is dated as '2021' and without having to change to a new document URL.
 #
 #
+# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 11/01/2021 ** !! See chronology of changes below...
+# COMING SOON: Additional updates to Distro TV list. Expanding additional content into the Holidays group. Additional maintenance.
+# 11/08/21 - NEW: ★★ Seasons Greetings ★★ sub-category added to "LocalNow"; also re-organized category with sub-channel headings.
+# 11/08/21 - NEW: Local Now seasonal channels duplicated in the 🎄🎄 Christmas 365 🎄🎄 sub-category of "Holidays 365" group.
+# 11/06/21 - NEW CHANNELS ADDED: Several new channels added to "Plex Live TV" category.
+# 11/04/21 - PLAYLIST MAINTENANCE: Cleaned up some lines in the playlist (reduced the amount of unnecessary information placeholders).
+# 11/01/21 - NEW: ★★ Seasons Greetings ★★ sub-category with channels added at the end of "Pluto TV on Samsung TV Plus" category.
+# 11/01/21 - NEW: Pluto TV seasonal channels duplicated in the 🎄🎄 Christmas 365 🎄🎄 sub-category of "Holidays 365" group.
+# 11/01/21 - PLEASE NOTE: Live channels in the Seasonal categories will be OFF-AIR during non-seasonal streaming windows.
 # !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 10/29/2021 ** !! See chronology of changes below...
 # 10/30/21 - NEW CONTENT ADDED: Additional VOD and live channels added to "Holidays 365" category.
 # 10/30/21 - NEW CATEGORY: Added primary set (main channels) of "LocalNow" with new EPG, courtesy of @DeltaSR + @jhr1948 via Discord.
