@@ -44,6 +44,15 @@
 # list is dated as '2021' and without having to change to a new document URL.
 #
 #
+# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 11/17/2021 ** !! See chronology of changes below...
+# COMING SOON: More new Pluto TV, Samsung TV Plus, and more. Small updates to existing categories. Additional Seasonal programming.
+# EPG SOURCE UPDATE: https://cutt.ly/DSr95Combinedepg	<< this will be the new EPG source for all projects issued by @DeltaSR ...
+# EPG SOURCE UPDATE: (cont'd) which replaces individual EPG's [7] and [12]. EPG [11] for LocalNow remains, for technical reasons.
+# EPG SOURCE UPDATE: (cont'd) Any new additions/EPG to Free2View TV from this developer will use the same 'combined' EPG source.
+# 11/17/21 - NEW CHANNELS: Added new Vizio linear channel simulcasts of diginets 'Defy TV' and 'True Real' in "USA Free TV" category.
+# 11/17/21 - NEW / MAINTENANCE: "Holidays 365": Added new 'Holiday Movie Favorites by Lifetime' channel; deleted dead VOD sources.
+# 11/14/21 - UPDATED CATEGORY: Updated and expanded "Distro TV" category. All available channels included.
+# 11/14/21 - UPDATED CATEGORY: Mapped additional channels and added QVC channels to "USA Free TV" category.
 # !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 11/01/2021 ** !! See chronology of changes below...
 # COMING SOON: Additional updates to Distro TV list. Expanding additional content into the Holidays group. Additional maintenance.
 # 11/08/21 - NEW: ★★ Seasons Greetings ★★ sub-category added to "LocalNow"; also re-organized category with sub-channel headings.
