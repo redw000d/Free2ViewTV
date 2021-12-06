@@ -44,6 +44,14 @@
 # list is dated as '2021' and without having to change to a new document URL.
 #
 #
+# COMING SOON: To Be Announced.
+# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 11/25/2021 ** !! See chronology of changes below...
+# 12/02/21 - CATEGORY UPDATE / CHANNELS REMOVED: "PBS (Geo-USA) | PBS + NPR" ** ATTENTION: PBS has recently begun to add DRM protection 
+             into their streams and are now unavailable to be included into the playlist. Some working PBS streams have now 
+             been moved to the "USA Free TV" section of the Playlist. This category will likely be discontinued by the next update.
+# 11/28/21 - CATEGORY UPDATE: Full update of the "Local Now" category, including new channels and reformating some details.
+# 11/25/21 - CATEGORY UPDATE: Duplicated worldwide PBS channels in "USA Free TV" category.
+# 11/25/21 - CATEGORY UPDATE / NEW: Renamed "Pluto TV on Samsung TV Plus" category as simply "Pluto TV" and added more channels.
 # !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 11/17/2021 ** !! See chronology of changes below...
 # COMING SOON: More new Pluto TV, Samsung TV Plus, and more. Small updates to existing categories. Additional Seasonal programming.
 # EPG SOURCE UPDATE: https://cutt.ly/DSr95Combinedepg	<< this will be the new EPG source for all projects issued by @DeltaSR ...
