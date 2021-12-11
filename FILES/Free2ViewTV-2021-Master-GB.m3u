@@ -122,6 +122,9 @@
 # 12/05/21 - CATEGORY UPDATE / NEW: Updated streams and content in the "Holidays 365" including new iHeartChristmas TV channels.
 # COMING SOON: To Be Announced.
 # !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 12/06/2021 ** !! See chronology of changes below...
+#            ** ATTENTION: Due to server issues EPG sources [1] [3] [4] [10] have moved servers and new links have been generated. 
+#            Now also using short links for easier entry into your streaming players. 
+#            Perfect Player backup files also updated with the new settings. **
 # 12/06/21 - NEW CATEGORY: Added "VOD | Lakeshore Classic Movies" with classic films from the PBS movie library.
 # 12/11/21 - NEW CHANNEL: Added Digi TV | Webstream in "USA Free TV". https://www.watchdigitv.com/schedule
 # COMING SOON: Move NPR radio. Add more iHeartRadio TV channels. Add more LCM movies. Add more premium 18+ videos.
@@ -143,13 +146,15 @@ https://od.lk/s/MF8yMjk4MTkzODdf/Free2ViewTV-Slide1_v6_210220.mp4?1C2
 https://od.lk/s/MF8yMjk4MTkzODdf/Free2ViewTV-Slide1_v6_210220.mp4?1D
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",** EPG Sources Below: ** Be sure to select the 'Download at each update' option in the settings! **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?2
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",[1] https://od.lk/s/MzJfMTQyMzI0MTJf/CAN_EPG1.xml
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",** ATTENTION: Due to server issues EPG sources [1] [3] [4] [10] have moved servers and new links have been generated. Now also using short links for easier entry into your streaming players. Perfect Player backup files also updated with the new settings. **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?2B
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",UPDATED! [1] https://cutt.ly/CAN_EPG1
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?3
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",[2] https://i.mjh.nz/PBS/all.xml 
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?4
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",[3] https://od.lk/s/MzJfMTQyMzI0MTVf/KCK_66101.xml
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",UPDATED! [3] https://cutt.ly/EPG_KCK_66101
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?5
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",[4] https://od.lk/s/MzJfMTQyMzI0MTZf/NYC_10001_OTA.xml
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",UPDATED! [4] https://cutt.ly/EPG_NYC_10001_OTA
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?6
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",[5] https://i.mjh.nz/Plex/all.xml 
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?7
@@ -161,7 +166,7 @@ https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?9
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?10
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",[9] https://i.mjh.nz/PlutoTV/all.xml 
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?11
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",NEW! [10] https://od.lk/s/MzJfMTQyMzI0MTdf/WNY_13601_DTV.xml
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",UPDATED! [10] https://cutt.ly/EPG_WNY_13601_DTV
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?12
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",NEW! [11] https://cutt.ly/LocalNowepg
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?13
