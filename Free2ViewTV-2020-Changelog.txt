@@ -44,6 +44,16 @@
 # list is dated as '2021' and without having to change to a new document URL.
 #
 #
+# COMING SOON: Content from critical thinker.cyou. Update to Distro TV, new channels in Plex. Update Free2View TV Select category.
+# COMING SOON: Move NPR radio. Add more iHeartRadio TV channels. Add more LCM movies. Add more premium 18+ videos. More.
+# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 12/06/2021 ** !! See chronology of changes below...
+#            ** ATTENTION: Due to server issues EPG sources [1] [3] [4] [10] have moved servers and new links have been generated. 
+#            Now also using short links for easier entry into your streaming players. 
+#            Perfect Player backup files also updated with the new settings. **
+# 12/11/21 - NEW CHANNEL: Added Digi TV | Webstream in "USA Free TV". https://www.watchdigitv.com/schedule
+# 12/11/21 - NEW CHANNEL: Added Mystery Alley | Ovation in "USA Free TV". https://www.ovationtv.com/schedule/
+# 12/11/21 - NEW CHANNEL: Added Journy | Ovation in "USA Free TV". https://journy.tv
+# 12/06/21 - NEW CATEGORY: Added "VOD | Lakeshore Classic Movies" with classic films from the PBS movie library.
 # COMING SOON: To Be Announced.
 # !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 11/25/2021 ** !! See chronology of changes below...
 # 12/02/21 - CATEGORY UPDATE / CHANNELS REMOVED: "PBS (Geo-USA) | PBS + NPR" ** ATTENTION: PBS has recently begun to add DRM protection 

@@ -121,6 +121,16 @@
              been moved to the "USA Free TV" section of the Playlist. This category will likely be discontinued by the next update.
 # 12/05/21 - CATEGORY UPDATE / NEW: Updated streams and content in the "Holidays 365" including new iHeartChristmas TV channels.
 # COMING SOON: To Be Announced.
+# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 12/06/2021 ** !! See chronology of changes below...
+#            ** ATTENTION: Due to server issues EPG sources [1] [3] [4] [10] have moved servers and new links have been generated. 
+#            Now also using short links for easier entry into your streaming players. 
+#            Perfect Player backup files also updated with the new settings. **
+# 12/06/21 - NEW CATEGORY: Added "VOD | Lakeshore Classic Movies" with classic films from the PBS movie library.
+# 12/11/21 - NEW CHANNEL: Added Digi TV | Webstream in "USA Free TV". https://www.watchdigitv.com/schedule
+# 12/11/21 - NEW CHANNEL: Added Mystery Alley | Ovation in "USA Free TV". https://www.ovationtv.com/schedule/
+# 12/11/21 - NEW CHANNEL: Added Journy | Ovation in "USA Free TV". https://journy.tv
+# COMING SOON: Content from critical thinker.cyou. Update to Distro TV, new channels in Plex. Update Free2View TV Select category.
+# COMING SOON: Move NPR radio. Add more iHeartRadio TV channels. Add more LCM movies. Add more premium 18+ videos. More.
 #
 # ************************************************************************************************************************************* 
 
@@ -138,13 +148,17 @@ https://od.lk/s/MF8yMjk4MTkzODdf/Free2ViewTV-Slide1_v6_210220.mp4?1C2
 https://od.lk/s/MF8yMjk4MTkzODdf/Free2ViewTV-Slide1_v6_210220.mp4?1D
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",** EPG Sources Below: ** Be sure to select the 'Download at each update' option in the settings! **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?2
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",[1] https://od.lk/s/MzJfMTQyMzI0MTJf/CAN_EPG1.xml
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",** ATTENTION: Due to server issues EPG sources [1] [3] [4] [10] have moved servers and new links have been generated. Now also using short links for easier entry into your streaming players. Perfect Player backup files also updated with the new settings. **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?2B
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",** ATTENTION: Due to server issues PLAYLIST sources have changed. Go to our blog page https://thefrugalstreamer.blogspot.com/p/free2viewtvpage1.html for the latest updates and further information about the changes. **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?2C
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",UPDATED! [1] https://cutt.ly/CAN_EPG1
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?3
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",[2] https://i.mjh.nz/PBS/all.xml 
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?4
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",[3] https://od.lk/s/MzJfMTQyMzI0MTVf/KCK_66101.xml
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",UPDATED! [3] https://cutt.ly/EPG_KCK_66101
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?5
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",[4] https://od.lk/s/MzJfMTQyMzI0MTZf/NYC_10001_OTA.xml
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",UPDATED! [4] https://cutt.ly/EPG_NYC_10001_OTA
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?6
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",[5] https://i.mjh.nz/Plex/all.xml 
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?7
@@ -156,7 +170,7 @@ https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?9
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?10
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",[9] https://i.mjh.nz/PlutoTV/all.xml 
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?11
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",NEW! [10] https://od.lk/s/MzJfMTQyMzI0MTdf/WNY_13601_DTV.xml
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",UPDATED! [10] https://cutt.ly/EPG_WNY_13601_DTV
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?12
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Info | Free2View TV",NEW! [11] https://cutt.ly/LocalNowepg
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?13
@@ -167,6 +181,8 @@ https://od.lk/s/MF8yMjk4MTkzOTJf/F2VTV_BuyMeACoffee_v4.mp4?BMC1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDA3OTIxOTdf/BuyMeACoffee_400x400.png" group-title="Info | Free2View TV",https://www.buymeacoffee.com/7gtLduXqV
 https://od.lk/s/MF8yMjk4MTkzOTJf/F2VTV_BuyMeACoffee_v4.mp4?BMC2
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Samsung TV Plus",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
+https://od.lk/s/MF8yMzk5NTY0Mjlf/SamsungTVPlus.mp4?SSInfo0
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Samsung TV Plus",** Category updated 10/29/21 **
 https://od.lk/s/MF8yMzk5NTY0Mjlf/SamsungTVPlus.mp4?SSInfo1
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Samsung TV Plus",** Credits: @MattHuisman | Adapted by: @geonsey Free2View TV **
@@ -378,6 +394,8 @@ https://newidco-newmovies-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="USAJ3000013FJ" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/40/USAJ3000013FJ_20210413T065445.png" group-title="Samsung TV Plus",US | NEW K.ID
 https://newidco-newkid-1-us.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Pluto TV",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?BingePlutoInfo0A
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Pluto TV",** Category updated 11/25/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?BingePlutoInfo1A
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Pluto TV",** Credits: @MattHuisman | Adapted by: @geonsey Free2View TV **
@@ -495,6 +513,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bd8282253ed2c6334ea10
 #EXTINF:-1 tvg-id="5bd832fd1843b56328bac0c7" tvg-logo="https://od.lk/s/MF8yNTE0NjkwNThf/PlutoTV_Xmas_540x540.png" group-title="Pluto TV",UK | Holiday Lights
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5bd832fd1843b56328bac0c7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="STIRR TV",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Stirr0
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="STIRR TV",** Category updated 8/10/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Stirr1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="STIRR TV",** Use this EPG source: [6] https://i.mjh.nz/Stirr/all.xml **
@@ -700,6 +720,8 @@ https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
 #EXTINF:-1 tvg-id="soar-11-20-2019-200325249" tvg-logo="https://od.lk/s/MF8yMjY0NDYwOTdf/Stirr_Blue_510x510.png" group-title="STIRR TV",STIRR | SOAR
 https://dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Plex Live TV",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?plex0
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Plex Live TV",** Category updated 10/11/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?plex1
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Plex Live TV",** Credits: @MattHuisman | Adapted by: @geonsey Free2View TV **
@@ -783,6 +805,8 @@ https://qwest-jazz-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60b0f65c0c8ffb002c821a77" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/qwesttv-mix_channel_logo_dark.png" group-title="Plex Live TV",US | QwestTV Mix
 https://qwest-mix-plex.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Distro TV",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?DistroTVInfo0A
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Distro TV",** Playlist Updated 11/17/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?DistroTVInfo1A
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Distro TV",** Credits: @DeltaSR + @jhr1948 via Discord | Adapted by: @geonsey Free2View TV **
@@ -939,8 +963,6 @@ https://bspoketv.s.llnwi.net/streams/distrotv-usa/master.m3u8
 https://api-ott-cookingpanda.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12.5&id=901&partner=distro&device_id=af56109e-ef74-4f31-b201-55dcce3b60d1&device_model=Web&device_width=530&device_height=298&us_privacy=1&gdpr=0&device_language=en&is_lat=0
 #EXTINF:-1 tvg-id="dtv_EPGHERITAGE +" tvg-name="Heritage" tvg-logo="https://a.jsrdn.com/hls/22886/heritage/logo_20211019_211743_68.png" group-title="Distro TV",DTV | Heritage+
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/heritage/master.m3u8
-#EXTINF:-1 tvg-id="dtv_EPGJourny" tvg-name="Journy" tvg-logo="https://a.jsrdn.com/hls/22944/journy-1/logo_20210602_001433_68.png" group-title="Distro TV",DTV | Journy
-https://dai.google.com/linear/hls/event/ovpAw4ZIRXC1Jv1wU6QswQ/master.m3u8
 #EXTINF:-1 tvg-id="DUMMYshoplc" tvg-name="Shop LC" tvg-logo="https://a.jsrdn.com/hls/22957/shoplc/logo_20210419_230336_68.png" group-title="Distro TV",DTV | Shop LC
 https://dai.google.com/linear/hls/event/nANxB7juRzWgEvqGuiaudg/master.m3u8
 #EXTINF:-1 tvg-id="dtv_EPGThe Love Destination" tvg-name="The Love Destination" tvg-logo="https://a.jsrdn.com/hls/22882/the-love-destination/logo_20200930_053809_68.png" group-title="Distro TV",The Love Destination
@@ -1178,6 +1200,8 @@ https://dai.google.com/linear/hls/event/jyAhWsXeQjKtvXWsYd2vHA/master.m3u8
 #EXTINF:-1 tvg-id="DUMMYNoEpg" tvg-name="Times Now Navbharat" tvg-logo="https://a.jsrdn.com/hls/22979/times-now-navbharat/logo_20210727_192118_68.png" group-title="Distro TV",DTV | Times Now Navbharat
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/federator/WICioQJ2FO/c.m3u8
 
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Local Now",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?LocalNow0
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Local Now",** Category updated 11/28/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?LocalNow1
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Local Now",** Credits: @DeltaSR + @jhr1948 via Discord | Adapted by: @geonsey Free2View TV **
@@ -1645,6 +1669,8 @@ https://b4542aa677084c7ba618b1fae108640b.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="LocalNow_EPGVevo Holiday" tvg-name="Vevo Holiday" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Local Now",Local Now | Vevo Holiday
 https://vevoholiday-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_6153962959596175e04c9a85_vevoholiday-live/live.m3u8
 
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="WatchYour.TV",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?tvs0
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="WatchYour.TV",** Category updated 11/17/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?tvs1
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="WatchYour.TV",** Credits: @DeltaSR + @jhr1948 via Discord | Adapted by: @geonsey Free2View TV **
@@ -1752,6 +1778,8 @@ https://rpn1.bozztv.com/36bay2/gusa-tvsfrontpagedetective/index.m3u8
 #EXTINF:-1 tvg-id="watchyourtv_EPGTVS Vintage Network" tvg-name="TVS Vintage Network" tvg-logo="https://www.watchyour.tv/img/epgdefault.png" group-title="WatchYour.TV",TVS Vintage Network
 https://rpn1.bozztv.com/36bay2/gusa-tvsvintage/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Free Ad Supported TV",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?FAST0
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Free Ad Supported TV",** Category updated 9/15/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?FAST1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Free Ad Supported TV",** Also known as F.A.S.T.- free Ad-supported TV from The Roku Channel- Distro TV- Local Now- and more! **
@@ -1789,6 +1817,8 @@ https://content.uplynk.com/channel/ext/f749f9956d4e467897dc48680d53df15/43388.m3
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-logo="https://od.lk/s/MF8yNDU2NjA3ODlf/Vuuzle_400x400.png" tvg-name="" group-title="Free Ad Supported TV",FilmBox Arthouse | Vuuzle
 https://content.uplynk.com/channel/ext/f749f9956d4e467897dc48680d53df15/43391.m3u8?tc=1&exp=1631755683796&rn=3367870003&ct=c&oid=f749f9956d4e467897dc48680d53df15&eid=43391&euid=43391&ad=livetv&ad.custom%5Bcontentid%5D=Filmbox_Arthouse&ad.custom%5Biris_context%5D%5B%5D=ic_3649156%2Cic_0858141%2Cic_6892597&ad.custom%5Biris_id%5D=iris_eb79e57d4002389a&sig=550ac3c4ab1c67882677e2a66acfd662ab2e645adebdfceef62d8dbdb16f8d42
 
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Entertainment",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?entertainment0
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Entertainment",** Category updated 8/31/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?entertainment1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Entertainment",** Use these EPG sources: (refer to the 'Info | Free2View TV' category at the beginning of the playlist for specific xml URL's) [6] Stirr **
@@ -1844,6 +1874,8 @@ https://6b35abb7a8684e0ca7e4aa0dbd9b7c45.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYxMDA5NTJf/Nosey_485x485.png" group-title="Entertainment",nosey | Judge Dad | Judge Mom
 https://9e8a585dae4840d18cfe5989851b5e73.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_60833a79de49a00d0ab83a5a/playlist.m3u8?&gdpr=1&gdpr_consent=1
 
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Movies Plus",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?moviesplus0
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Movies Plus",** Category updated 8/23/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?moviesplus1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Movies Plus",** Use these EPG sources: (refer to the 'Info | Free2View TV' category at the beginning of the playlist for specific xml URL's) [6] Stirr **
@@ -1880,6 +1912,8 @@ https://lonestar-rakuten.amagi.tv/playlist.m3u8
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?moviesplus2B
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzU1NDU0NjNf/247RetroTV.png" group-title="Movies Plus",247 Retro TV
 http://hlsdpi-cdn-chqtx02.totalstream.net/dpilive/247retro/ret/dai/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzU1NDU0NjNf/247RetroTV.png" group-title="Movies Plus",247 Retro TV (alt)
+http://143.198.135.247:1935/247Retro/smil:247retrolive.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1639582086&wowzatokenCustomParameter=myParameter&wowzatokenhash=9Hb5CAZvw0qVm4V8jWgJm57iRJfRzOTm-tf2ECgyGBg=
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzU1NDU1MTBf/NostTV_SpydarTV.png" group-title="Movies Plus",Spydar TV
 https://simultv.s.llnwi.net/n4s4/Spydar/interlink.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzU1NDU1MTVf/KartoonFunTime_209x209.png" group-title="Movies Plus",Kartoon Fun Time
@@ -1905,6 +1939,8 @@ https://broadcast.mytvtogo.net/horrifiedtv/horrifiedtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzU1NDU0OTdf/NostTV_Movies_400x400.png" group-title="Movies Plus",Let's Go To The Movies
 https://broadcast.mytvtogo.net/itsatthemovies/itsatthemovies/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Live News",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?news0
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Live News",** Category updated 10/29/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?news1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Live News",★★ News & Weather ★★
@@ -1921,8 +1957,8 @@ https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20
 https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUzNzc0Mjlf/AccuWeather_500x500.png" group-title="Live News",AccuWeather Now | Roku
 https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjY2MjMxMDVf/WeatherNation.png" group-title="Live News",Weather Nation | Samsung
-https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8?origSS-f2vlivenews
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjY2MjMxMDVf/WeatherNation.png" group-title="Live News",Weather Nation | Roku
+https://weathernationtv.roku.wurl.com/manifest/playlist.m3u8?origRk-f2vlivenews
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Live News",★★ CBS News Digital ★★
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?cbsnews1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzMyNDIzNjZf/CBSNews.png" group-title="Live News",CBS News | CBSN National
@@ -2010,6 +2046,8 @@ http://static.france24.com/live/F24_ES_HI_HLS/live_web.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDU3MjcyNzlf/France24.png" group-title="Live News",France24 | SPA Web SD
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
 
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Sports & Recreation",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?sports0
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Sports & Recreation",** Category updated 9/01/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?sports1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Sports & Recreation",** Use these EPG sources: (refer to the 'Info | Free2View TV' category at the beginning of the playlist for specific xml URL's) [6] Stirr **
@@ -2067,8 +2105,10 @@ https://live.serverside.ai/hls/7dc5907c-6d6e-45ef-a24f-e28353aa8e98/master.m3u8?
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzA3OTU1MDBf/UnbeatenCombat_450x450.png" group-title="Sports & Recreation",Unbeaten Combat | ST.TV
 https://d179m5eq83yziw.cloudfront.net/live3/unbeaten_tv/bitrate1-clear.isml/manifest.m3u8?t=2021-03-05T16%3A30%3A00.000
 
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="USA Free TV",** Category updated 12/02/21 **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="USA Free TV",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ota0A
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="USA Free TV",** Category updated 12/11/21 **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ota0AA
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="USA Free TV",** Use these EPG sources: (refer to the 'Info | Free2View TV' category at the beginning of the playlist for specific xml URL's) [2] PBS | [3] KCK_66101 | [4] NYC_10001_OTA | [10] WNY_13601_DTV **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?ota1A
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="USA Free TV",** PLEASE NOTE: Not all channels have EPG data.
@@ -2167,6 +2207,12 @@ https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/61839
 https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/playlist.m3u8?l1br3&date0525
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="USA Free TV",📺 More USA Free TV 📺
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?freeTVmore
+#EXTINF:-1 tvg-id="" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNTU0OTIwNzlf/MysteryAlley_319x319.png" group-title="USA Free TV",Mystery Alley | Ovation
+https://vcnmysteryalley.teleosmedia.com/linear/ovationmysteries/mysteryalley/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-type="live" tvg-logo="https://od.lk/s/MF8yMjg5MzMxNjNf/Journy_225x225.png" group-title="USA Free TV",Journy | Ovation
+https://vcnovation.teleosmedia.com/linear/ovation/journy/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNTUzODM4MThf/DigiTV_420x420.png" group-title="USA Free TV",Digi TV | Webstream
+https://amg01443-netxholdingsllc-digitv200-ono-zzfy4.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-type="live" tvg-logo="https://od.lk/s/MF8yNDk3NzgzMTRf/ACENetwork_250x250.png" group-title="USA Free TV",ACE | American Classic Ent.
 https://dai.google.com/linear/hls/event/XlPF-0NTSFOnlMNs1Sr59w/master.m3u8?l1br3date1017-USAFreeTV
 #EXTINF:-1 tvg-id="" tvg-logo="https://od.lk/s/MF8yNDU4ODA2NjJf/KoolTV_627x627.png" group-title="USA Free TV",Kool TV | Webstream
@@ -2188,8 +2234,10 @@ https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjU3OTE2ODhf/CitiCable_225x225.png" group-title="USA Free TV",KNET-CD 25.2 | Local Access
 http://granicusliveus6-a.akamaihd.net/torrance/G0057_005/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="PBS (Geo-USA) | PBS + NPR",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?pbsinfo0A
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="PBS (Geo-USA) | PBS + NPR",** Category updated 12/02/21 **
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?pbsinfo0
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?pbsinfo0B
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="PBS (Geo-USA) | PBS + NPR",** ATTENTION 1: PBS has recently begun to add DRM protection into their streams and are now unavailable to be included into the Free2View TV Playlist. **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?pbsinfo1A
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="PBS (Geo-USA) | PBS + NPR",** ATTENTION 2: Some working PBS streams have now been moved to the USA Free TV section of the Playlist. **
@@ -2213,6 +2261,8 @@ http://pd.npr.org/anon.npr-mp3/npr/news/newscast.mp3
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4Mzc0OThf/NPR_256x256.png" group-title="PBS (Geo-USA) | PBS + NPR" radio="true",KQED Radio Live Stream
 https://streams.kqed.org/kqedradio?listenerid=1632014350025_0.3531046065504524&awparams=companionAds%3Atrue&listenerid=1632014350025_0.3531046065504524&awparams=companionAds%3Atrue?onsite=true
 
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Canada",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Canada0
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Canada",** Category updated 9/30/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Canada1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Canada",** Use this EPG Source: [1] https://od.lk/s/MzJfMTQyMzI0MTJf/CAN_EPG1.xml **
@@ -2322,6 +2372,8 @@ http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-en/playlist.m3
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjQyNTQ4Njhf/OntParl_450x450.png" group-title="Canada",Ontario OLA Network | FR
 http://origin-http-delivery.isilive.ca/live/_definst_/ontla/house-fr/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="CBC TV | ICI Télé (Geo-CA)",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?CBCICI0
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="CBC TV | ICI Télé (Geo-CA)",** Category updated 8/25/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?CBCICI1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="CBC TV | ICI Télé (Geo-CA)",** Use this EPG source: [1] https://od.lk/s/MzJfMTQyMzI0MTJf/CAN_EPG1.xml **
@@ -2395,6 +2447,8 @@ https://rcavlive.akamaized.net/hls/live/704023/cancktv/master_2500.m3u8
 #EXTINF:-1 tvg-id="I731.73188.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDQ4MzgyMTFf/ICI-Tele-v2.png" group-title="CBC TV | ICI Télé (Geo-CA)",ICI Télé Saskatchewan
 https://rcavlive.akamaized.net/hls/live/704019/cancbkft/master_2500.m3u8
 
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Free2View TV Select",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Select0
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Free2View TV Select",** Category updated 8/03/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Select1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Free2View TV Select",** Free2View TV Select ** Now available on Roku- the OFFICIAL Roku channel for Free2View TV. Search the term 'Free2View TV' on your Roku to install the app. **
@@ -2440,6 +2494,8 @@ https://dust-samsung-us.samsung.wurl.tv/playlist.m3u8?l1br3date0801&SrcSsg&EPGss
 #EXTINF:-1 tvg-id="USAK3508715A" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ShoutFactoryTV_300x300.png?raw=true" group-title="Free2View TV Select",F2V | Shout! Factory
 https://shout-factory.samsung.wurl.com/playlist.m3u8?l1br3date0801&SrcSsg&EPGssg&Catf2v
 
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="AMC Networks",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?AMCInfo0
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="AMC Networks",** Category updated 8/01/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?AMCInfo1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="AMC Networks",** Uses these EPG sources: (refer to the 'Info | Free2View TV' category at the beginning of the playlist for specific xml URL's) [5] Plex | [8] Samsung TV Plus | [9] Pluto TV **
@@ -2483,6 +2539,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e82530945600e0007ca07
 #EXTINF:-1 tvg-id="5e82bb378601b80007b4bd78" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="AMC Networks",The Walking Dead en español
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&CatAMC
 
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="FilmRise Free TV & Movies",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?FilmriseInfo0
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="FilmRise Free TV & Movies",** Category updated 8/17/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?FilmriseInfo1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzYwMTM2OTNf/FilmRise_Classic-TV_300x300.png" group-title="FilmRise Free TV & Movies",Roku | FilmRise Classic TV
@@ -2522,6 +2580,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisescifi/CDN/playlist.
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="FilmRise Free TV & Movies",Redbox | FilmRise Classic TV
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Sci-Fi + Horror & Beyond",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?scifi0
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Sci-Fi + Horror & Beyond",** Category updated 8/22/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?scifi1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Sci-Fi + Horror & Beyond",** Uses these EPG sources: (refer to the 'Info | Free2View TV' category at the beginning of the playlist for specific xml URL's) [5] Plex | [6] Stirr | [8] Samsung TV Plus | [9] Pluto TV **
@@ -2573,6 +2633,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60804d85858bd00007c5d5
 #EXTINF:-1 tvg-id="6081648340382e0007f73d45" tvg-logo="https://od.lk/s/MF8yMzk3MDA1MTBf/PlutoTV_Purple_208x208.png" group-title="Sci-Fi + Horror & Beyond",UK | Most Haunted
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6081648340382e0007f73d45/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&catScifiHorror
 
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Holidays 365",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Holidays0
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Holidays 365",** Category updated 11/17/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Holidays1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Holidays 365",** Use these EPG sources: (refer to the 'Info | Free2View TV' category at the beginning of the playlist for specific xml URL's) [6] Stirr | [8] Samsung TV | [9] Pluto TV  **
@@ -2700,6 +2762,8 @@ https://s6.yesstreaming.net:17082/stream
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY4MDc3NDNf/OldTimeRadio.png" group-title="Holidays 365" radio="true",Conyers OTR Seasonal (Sc.2)
 http://s6.yesstreaming.net:7082/stream
 
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Binge TV | [adult swim]",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?adswm0
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Binge TV | [adult swim]",** Category updated 8/22/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?adswm1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV | [adult swim]",[adult swim] live stream
@@ -2741,6 +2805,8 @@ http://adultswim-vodlive.cdn.turner.com/live/tim-and-eric/stream.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDUyNjc2NDhf/AdultSwim_262x262.png" group-title="Binge TV | [adult swim]",Relaxing Fish 
 https://media.cdn.adultswim.com/streams/playlists/fishcam.backup.m3u8
 
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="International TV",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?International0
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="International TV",** Category updated 9/30/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?International1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="International TV",** International TV Mix **
@@ -2798,6 +2864,8 @@ https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/index.m3u8?internat
 #EXTINF:-1 tvg-id="I743.67231.zap2it.com" tvg-logo="https://od.lk/s/MF8yNDgzNjA3NzJf/LCN_640x640.png" group-title="International TV",CA | LCN Le Canal Nouvelles
 https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8?international
 
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Ambient TV",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Ambient0
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Ambient TV",** Category updated 9/15/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Ambient1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Ambient TV",** Ambient TV - Sound Optional! Great for office screens at home or for your business! **
@@ -2839,6 +2907,8 @@ https://videos3.earthcam.com/fecnetwork/AbbeyRoadHD1.flv/chunklist_w1096421812.m
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzIyMDM5MTNf/Generic-Webcam.png" group-title="Ambient TV",Rio Copacabana Beach WebCam
 https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/6593/2017/10/01/1300.mp4/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Stingray Music",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Stingray0
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Stingray Music",** Category updated 8/12/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?Stingray1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDAxOTk0ODhf/EPG-XML_300x300.png" group-title="Stingray Music",** Use this EPG source: [6] https://i.mjh.nz/Stirr/all.xml **
@@ -2878,6 +2948,8 @@ https://stirr.ott-channels.stingray.com/djazz/master.m3u8
 #EXTINF:-1 tvg-id="externallinearfeed-05-25-2020-05-25-2020" tvg-logo="https://od.lk/s/MF8yNDQzMDMxMzRf/StingrayMusic_512x512.png" group-title="Stingray Music" radio="true",Stingray Classica | HD
 https://stirr.ott-channels.stingray.com/iota-classica/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Free iHeart Radio",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?iHR0
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Free iHeart Radio",** Category updated 8/10/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?iHR1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQyNTkzNThf/iHeartRadio_240x240.png" group-title="Free iHeart Radio",** Free iHeart Radio **
@@ -2961,6 +3033,8 @@ https://stream.revma.ihrhls.com/zc7101/hls.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQyNTkzNThf/iHeartRadio_240x240.png" group-title="Free iHeart Radio" radio="true",iHR | iMaginate Radio
 https://stream.revma.ihrhls.com/zc8523/hls.m3u8
 
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Free Dash Radio",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
+https://od.lk/s/MF8yNDg3NTc2NTdf/DashRadioWPP.mp4?Dash0
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Free Dash Radio",** Category updated 10/03/21 **
 https://od.lk/s/MF8yNDg3NTc2NTdf/DashRadioWPP.mp4?Dash1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDg3NTc3MDZf/DashRadio_512x512.png" group-title="Free Dash Radio",** Original list: @Sphinxroot via Discord | Adapted by: @geonsey Free2View TV **
@@ -3154,8 +3228,10 @@ https://ice55.securenetsystems.net/DASH93
 #EXTINF:-1 tvg-logo="https://dashradio-files.s3.amazonaws.com/development/icon_logos/57/logos/5a781df1-227e-452a-8576-0530244dee94.png" group-title="Free Dash Radio" radio="true",Dash Radio | Dash Lofi
 https://ice55.securenetsystems.net/DASH25
 
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Free Live Radio",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?FreeRadioCat0
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Free Live Radio",** Category updated 9/12/21 **
-https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?FreeRadioCat
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?FreeRadioCat1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Free Live Radio",** Free News Radio **
 https://od.lk/s/MF8yNDY3OTI1NTFf/OldRadio.mp4?RadioNews
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY3OTI2ODVf/TuneIn_380x380.png" group-title="Free Live Radio" radio="true",TuneIn News | MSNBC (Audio)
@@ -3213,6 +3289,8 @@ https://listen.openstream.co/4799/;listen
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDY4MDc3NDNf/OldTimeRadio.png" group-title="Free Live Radio" radio="true",WOTR | Suspense Radio USA
 https://listen.openstream.co/4885/;listen
 
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Free2View TV | VOD",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?F2VVOD0
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Free2View TV | VOD",** Category updated 10/09/21 **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?F2VVOD1
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQ4MTYwNzdf/F2V_Logo_dark_550x550.png" group-title="Free2View TV | VOD",** VOD | Free2View TV **
@@ -3236,8 +3314,31 @@ https://od.lk/s/MF8yMTU5MTYzMTVf/Roku_City-Stroll_Skyline_720p_16m43s.mp4
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjQzMjIyNzhf/Generic-VOD.png" group-title="Free2View TV | VOD",Roku Movie Magic Screensaver
 https://od.lk/s/MF8yMTU5MTU4NzZf/Roku_City-Stroll_Movie-Magic_720p_16m43s.mp4
 
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Adults Only | 18+",** Category updated 9/21/21 **
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Lakeshore Classic Movies | VOD",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?LCMVOD0
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Lakeshore Classic Movies | VOD",** Category updated 12/06/21 **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?LCMVOD1
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNTQ4NjI1NjVf/LCM_PBS_743x743.png" group-title="Lakeshore Classic Movies | VOD",** https://lakeshorepbs.org/lakeshore-classic-movies/ **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?LCMVOD2
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNTQ4NjI1NjVf/LCM_PBS_743x743.png" group-title="Lakeshore Classic Movies | VOD",Penny Serenade (1941) [cc] (11/13/21)
+https://ga.video.cdn.pbs.org/videos/lakeshore-classic-movies/d0568084-8427-4013-b3b3-755262a7639a/2000265772/hd-16x9-mezzanine-1080p/pennyserenade_h264-hls-16x9-1080p.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNTQ4NjI1NjVf/LCM_PBS_743x743.png" group-title="Lakeshore Classic Movies | VOD",The Last Man on Earth (1960) [cc] (10/31/21)
+https://ga.video.cdn.pbs.org/videos/lakeshore-classic-movies/968b4f4e-ebf3-437a-b3db-ebe367bb323f/2000198817/hd-16x9-mezzanine-1080p/last-man-on-earth_h264-hls-16x9-1080p.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNTQ4NjI1NjVf/LCM_PBS_743x743.png" group-title="Lakeshore Classic Movies | VOD",The House on Haunted Hill (1959) [cc] (10/31/21)
+https://ga.video.cdn.pbs.org/videos/lakeshore-classic-movies/e2acc4b4-7b07-4a80-89e0-a478a162daf4/2000198825/hd-16x9-mezzanine-1080p/house-on-haunted-hill_h264-hls-16x9-1080p.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNTQ4NjI1NjVf/LCM_PBS_743x743.png" group-title="Lakeshore Classic Movies | VOD",The Bells of St. Mary’s (1945) [cc] (12/19/20)
+https://ga.video.cdn.pbs.org/videos/lakeshore-classic-movies/310c49ea-f6ac-4d60-b2a7-7a671df55fbf/2000205501/hd-16x9-mezzanine-1080p/bells-of-st-marys_h264-hls-16x9-1080p_262.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNTQ4NjI1NjVf/LCM_PBS_743x743.png" group-title="Lakeshore Classic Movies | VOD",Scrooge (1935) [Edited American Version] [cc] (12/20/20)
+https://ga.video.cdn.pbs.org/videos/lakeshore-classic-movies/9f013a69-3fa0-418c-800d-d5bc4f5e6df2/2000205504/hd-16x9-mezzanine-1080p/scrooge_h264_1-hls-16x9-1080p_814.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNTQ4NjI1NjVf/LCM_PBS_743x743.png" group-title="Lakeshore Classic Movies | VOD",A Christmas Wish (1950) [cc] (12/20/20) 
+https://ga.video.cdn.pbs.org/videos/lakeshore-classic-movies/54314285-1a31-4d5f-a8d6-7de4a9f3b0d7/2000206392/hd-16x9-mezzanine-1080p/a-christmas-wish-hls-16x9-1080p.m3u8
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNTQ4NjI1NjVf/LCM_PBS_743x743.png" group-title="Lakeshore Classic Movies | VOD",The Strange Love of Martha Ivers (1946) [cc] (02/06/20)
+https://ga.video.cdn.pbs.org/videos/lakeshore-classic-movies/1b806cf6-9c9a-4b56-ab88-9553ea551766/2000230493/hd-16x9-mezzanine-1080p/strange-love-of-martha-ivers_h264-hls-16x9-1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Adults Only | 18+",** MAJOR PLAYLIST UPDATE | See INFO category for details of changes to some source URLs including EPG (12/11/21) **
 https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?1A810A
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDM1NjI1MDhf/F2V-TV_light_701x701.png" group-title="Adults Only | 18+",** Category updated 9/21/21 **
+https://od.lk/s/MF8yMjA4NjQ1MzRf/PleaseStandBy.mp4?1A810B
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzMxNTUxNDVf/Kaloopy_340x340.png" group-title="Adults Only | 18+",Kaloopy (18+) | HD
 https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MF8yNDQxNTk2ODFf/A3Network_A3Bikini.png" group-title="Adults Only | 18+",A3 Bikini (18+)
