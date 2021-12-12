@@ -47,6 +47,39 @@ All previous Github versions of the playlist will be updated with the new revisi
 If there are any of your channels that are missing, open up an Issue in our github and I will get to it ASAP
 https://github.com/geonsey/Free2ViewTV/issues
 
+Additionally: Some EPG sources supplied by F2V TV have changed. Here are all the EPG sources we are working with right now (as of 12/12/21):
+
+[1] Canadian EPG (this will be expanded later this summer to support additional channels!) * (updated 12/12/21)
+https://cutt.ly/CAN_EPG1 
+[2] PBS (Geo-USA) ** 
+https://i.mjh.nz/PBS/all.xml
+[3] Selected USA Over-The-Air channels * (updated 12/12/21)
+https://cutt.ly/EPG_KCK_66101
+[4] Additional USA Over-The-Air channels * (updated 12/12/21)
+https://cutt.ly/EPG_NYC_10001_OTA
+[5] Plex **
+https://i.mjh.nz/Plex/all.xml 
+[6] Stirr EPG ** 
+https://i.mjh.nz/Stirr/all.xml
+[7] Distro TV EPG, as well as WatchYour.TV EPG *** (UPDATED! 12/12/21)
+https://cutt.ly/DSr95Combinedepg
+[8] Samsung TV Plus ** 
+https://i.mjh.nz/SamsungTVPlus/all.xml
+[9] Pluto TV ** 
+https://i.mjh.nz/PlutoTV/all.xml
+[10] USA Television EPG * (updated 12/12/21)
+https://cutt.ly/EPG_WNY_13601_DTV
+[11] LocalNow EPG *** (UPDATED! 12/12/21)
+https://cutt.ly/LocalNowepg
+
+* EPG sources custom created by the Free2View TV Project
+** EPG sources courtesy of Matt Huisman (https://www.matthuisman.nz)
+*** Source courtesy of @DeltaSR (https://github.com/DeltaSr95/DistroTV)
+
+Perfect Player users:
+For users' convenience new set of Perfect Player backup files have been created with the updated sources. 
+You may find the backups here on the github: https://github.com/Sphinxroot/Free2ViewTV/tree/main/PLAYER
+
 Our main Facebook group is here: https://www.facebook.com/groups/729165387973823
 Search for "We Are Streamers On A Budget" to find our group as well, my moderators and I (admin) are on there every day and the best source of updates and information.
 You can also email us directly at Free2ViewTVCanada@gmail.com
