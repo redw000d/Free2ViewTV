@@ -44,6 +44,12 @@
 # list is dated as '2021' and without having to change to a new document URL.
 #
 #
+# COMING SOON: Content from critical thinker.cyou. Update to Distro TV, additional new channels to be added to Plex. 
+# COMING SOON: Move NPR radio. Add more iHeartRadio TV channels. Add more LCM movies. Add more premium 18+ videos. More.
+# !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 12/15/2021 ** !! See chronology of changes below...
+# 12/19/21 - NEW CHANNELS: Added new channels into "Plex Live TV"; Plex Christmas channels (sub-domains) added in "Holidays 365".
+# 12/17/21 - CHANNEL MAINTENANCE: Updated the USTVNow Free Channels streams in "USA Free TV", mapped additional EPG to some channels.
+# 12/15/21 - CATEGORY MAINTENANCE: Cleaned up "Canda" category and updated some streams.
 # COMING SOON: Content from critical thinker.cyou. Update to Distro TV, new channels in Plex. Update Free2View TV Select category.
 # COMING SOON: Move NPR radio. Add more iHeartRadio TV channels. Add more LCM movies. Add more premium 18+ videos. More.
 # !!!!!!!!!!!!!!! - !! "Info | Free2View TV",** Info | Playlist updated as of 12/06/2021 ** !! See chronology of changes below...
